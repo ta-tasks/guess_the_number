@@ -1,0 +1,7 @@
+procedure guess_my_number() callbacks {
+    function guess() mayexit;
+}
+
+main {
+    call guess_my_number();
+}
